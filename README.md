@@ -22,4 +22,4 @@
 
 
 
-[linkedin]: https://www.linked.com/in/gregory-brothers-981b1210b
+[linkedin]: https://www.linkedin.com/in/gregory-brothers-981b1210b
